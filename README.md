@@ -481,39 +481,7 @@ mindmap
   </a>
 </p>
 
-### 💰 Project Rates & Availability
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-**💼 Full Projects**
-Starting from $X,XXX
-Complete app development
-
-</td>
-<td align="center" width="33%">
-
-**⏱️ Hourly Rate**
-$XX - $XXX/hour
-Flexible engagement
-
-</td>
-<td align="center" width="33%">
-
-**📱 Publishing Only**
-$XXX - $XXX
-App Store submissions
-
-</td>
-</tr>
-</table>
-
-### 🎯 Currently Available For:
-
-✅ **Full-Time Contracts** | ✅ **Part-Time Projects** | ✅ **One-Time Publishing** | ✅ **Consulting & Code Review**
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's+Build+Amazing+Apps+Together!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%" />
 
