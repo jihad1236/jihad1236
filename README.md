@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Jihadul%20Islam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Flutter%20Developer%20|%20Technical%20Team%20Lead&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:000000&height=200&section=header&text=Jihadul%20Islam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Flutter%20Developer%20|%20Technical%20Team%20Lead&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
 
@@ -201,7 +201,9 @@ I'm always interested in discussing new opportunities, innovative projects, or F
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:02569B&height=150&section=footer&text=Let's%20Build%20Something%20Amazing&fontSize=28&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:000000&height=150&section=footer&text=Let’s%20Build%20Something%20Amazing&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
+
+
 
 <sub>Built with ❤️ using Flutter and Clean Code principles</sub>
 
