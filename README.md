@@ -135,6 +135,7 @@ Developed a high-concurrency rider application with real-time tracking and secur
 
 <div align="center">
 
+<div align="center">
 
 ### 🎯 Skills Proficiency Matrix
 
@@ -146,18 +147,13 @@ Developed a high-concurrency rider application with real-time tracking and secur
 | RESTful APIs | ![](https://geps.dev/progress/85?dangerColor=009688&warningColor=009688&successColor=009688) | 15+ |
 | Clean Architecture | ![](https://geps.dev/progress/82?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 6+ |
 
-</div>
-<br>
-
+<br/>
 
 ## 📈 GitHub Statistics
 
-
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad1236&theme=transparent&stroke=02569B&ring=02569B&fire=02569B&currStreakLabel=02569B&background=0,ffffff,e6f2ff&hide_border=true" width="48%" />
 
-
-
+<br/><br/>
 
 ## 🎓 Education & Certifications
 
@@ -175,11 +171,14 @@ I'm always interested in discussing new opportunities, innovative projects, or F
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jihadul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jihad1236)
 [![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jihadulislam.edu@gmail.com)
 
 </div>
 
+---
+
+<div align="center">
 
 
 <div align="center">
