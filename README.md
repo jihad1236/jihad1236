@@ -5,9 +5,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=02539A&center=true&vCenter=true&width=700&lines=Full-Stack+Flutter+Developer;iOS+%26+Android+Publishing+Expert;Firebase+%26+MySQL+Architect;Shipped+50%2B+Apps+to+Production" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="followers" />
-  <img src="https://img.shields.io/badge/Apps%20Published-50%2B-success?style=flat&logo=flutter" alt="apps published" />
+  <img src="https://komarev.com/ghpvc/?username=jihad1236&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/jihad1236?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/badge/Apps%20Published-2%2B-success?style=flat&logo=flutter" alt="apps published" />
 </p>
 
 ---
