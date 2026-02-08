@@ -89,33 +89,44 @@ Senior Flutter Developer with **2+ years of experience** building scalable, high
 
 </div>
 
----
+## 🚀 Featured Production Projects
 
-### **Barbell AI** — AI-Powered Nutrition Platform
-**Tech Stack:** Flutter, AI OCR, HealthDash API, Firebase
+### Barbell AI — AI-Powered Nutrition & Fitness Platform  
+*Live on Apple App Store*
 
-Built an intelligent meal planning and nutrition analysis dashboard with AI-powered food recognition. Successfully deployed to App Store with positive user feedback.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![AI OCR](https://img.shields.io/badge/AI_OCR-6A5ACD?style=flat)
+![HealthKit](https://img.shields.io/badge/Apple_HealthKit-000000?style=flat&logo=apple&logoColor=white)
 
-**Key Features:**
-- AI-based meal scanning and nutritional breakdown
-- Personalized meal recommendations
-- Real-time health metrics dashboard
+Built an intelligent nutrition and fitness ecosystem that automates dietary tracking using AI-powered vision and analytics.
 
-### **Quikle Rider** — Delivery Management System
-**Tech Stack:** Flutter, WebSockets, GPS Integration, Firebase
-
-Developed a comprehensive rider application with real-time order tracking and secure financial transactions.
-
-**Key Features:**
-- Real-time order tracking with WebSocket integration
-- GPS-based route optimization
-- Secure KYC verification and withdrawal system
-- Push notification system for order updates
+**Key Contributions**
+- Designed and implemented **AI-based meal scanning** using OCR and image recognition  
+- Developed **real-time health analytics dashboards** with visual metrics  
+- Automated **personalized meal planning and habit tracking** using AI workflows  
 
 ---
+
+### Quikle Rider — Real-Time Logistics & Delivery System  
+*Production-ready Android platform*
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socket.io&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat&logo=mapbox&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+
+Developed a high-concurrency rider application with real-time tracking and secure financial operations.
+
+**Key Contributions**
+- Implemented **live order tracking** using WebSockets and GPS integration  
+- Built **secure KYC verification and rider withdrawal systems**  
+- Delivered **engagement features** including referral programs and in-app quizzes  
+
 
 
 <div align="center">
+<br>
 
 ### 🎓 **Architecture Decision Framework**
 
