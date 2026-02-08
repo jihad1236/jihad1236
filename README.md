@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=02539A&height=280&section=header&text=JIHADUL%20ISLAM&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20Flutter%20Developer%20|%20Technical%20Team%20Lead&descAlignY=55&descAlign=50" width="100%"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=220&section=header&text=JIHADUL%20ISLAM&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=40&desc=Senior%20Flutter%20Developer%20|%20Technical%20Team%20Lead&descAlignY=65&descAlign=50&descSize=20" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=02539A&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Apps;Clean+Architecture+Expert;AI-Powered+Flutter+Solutions;100%+App+Store+Approval+Rate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=02539A&center=true&vCenter=true&width=600&lines=Building+Scalable+Mobile+Apps;Clean+Architecture+Expert" alt="Typing SVG" />
 </p>
+
+</div>
 
 <p align="center">
 <a href="https://linkedin.com/in/jihadul"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -15,7 +19,7 @@
 ---
 
 ### 🛡️ Professional Summary
-> *Flutter Developer with **1.5 years of experience** specializing in high-performance cross-platform applications. Proven **Team Leader** at Softvence Agency, bridging the gap between design, clean architecture, and rapid market deployment.*
+> *Flutter Developer with **2+ years of experience** specializing in high-performance cross-platform applications. Proven **Team Leader** at Softvence Agency, bridging the gap between design, clean architecture, and rapid market deployment.*
 
 </div>
 
