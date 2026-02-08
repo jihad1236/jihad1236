@@ -41,8 +41,12 @@ Senior Flutter Developer with **2+ years of experience** building scalable, high
 
 <br>
 
+
+
 <div align="center">
+
 ## 🛠️ Core Technologies
+
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
