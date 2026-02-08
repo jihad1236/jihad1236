@@ -146,21 +146,19 @@ Developed a high-concurrency rider application with real-time tracking and secur
 | Clean Architecture | ![](https://geps.dev/progress/82?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 6+ |
 
 </div>
----
+
 ## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jihad1236&show_icons=true&theme=transparent&title_color=02569B&icon_color=0052CC&text_color=333333&bg_color=0,ffffff,e6f2ff&hide_border=true" width="48%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad1236&theme=transparent&stroke=02569B&ring=02569B&fire=02569B&currStreakLabel=02569B&background=0,ffffff,e6f2ff&hide_border=true" width="48%" />
 
-<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihad1236&layout=compact&theme=transparent&title_color=02569B&text_color=333333&bg_color=0,ffffff,e6f2ff&hide_border=true" width="60%" />
 
 </div>
 
----
+
 ## 🎓 Education & Certifications
 
 **Bachelor of Science in Computer Science & Engineering**  
