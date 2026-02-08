@@ -114,26 +114,24 @@ Developed a comprehensive rider application with real-time order tracking and se
 
 ---
 
-## 📊 Architecture Expertise
 
-**Clean Architecture Principles**
-- Clear separation of concerns (Presentation, Domain, Data layers)
-- Dependency injection and inversion
-- Test-driven development (TDD)
-
-**Performance Optimization**
-- Efficient state management
-- Memory leak prevention
-- Image caching and lazy loading
-- Database query optimization
-
-**Code Quality Standards**
-- SOLID principles
-- Design patterns (Repository, Factory, Singleton)
-- Comprehensive code documentation
-- Automated testing (Unit, Widget, Integration)
-<br>
 <div align="center">
+
+### 🎓 **Architecture Decision Framework**
+
+| Criteria | Consideration | Outcome |
+|:---------|:--------------|:--------|
+| **📊 Scalability** | App growth potential, user base expansion | Clean Architecture with modular design |
+| **⚡ Performance** | Response time, resource efficiency | Optimized state management & caching |
+| **👥 Team Needs** | Developer experience, maintainability | Clear patterns, comprehensive documentation |
+| **🚀 Time to Market** | Development speed, feature delivery | Flexible architecture supporting rapid iteration |
+
+**Decision Drivers:** `Scalability` • `Performance` • `Team Efficiency` • `Maintainability` • `Business Goals`
+
+</div>
+
+---
+
 
 ### 🎯 Skills Proficiency Matrix
 
