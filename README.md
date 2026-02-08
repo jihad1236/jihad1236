@@ -132,17 +132,9 @@ Developed a comprehensive rider application with real-time order tracking and se
 - Design patterns (Repository, Factory, Singleton)
 - Comprehensive code documentation
 - Automated testing (Unit, Widget, Integration)
+<br>
+<div align="center">
 
----
-### 💻 Weekly Development Breakdown
-
-```text
-Flutter      ███████████████████░░   85%
-Dart         ████████████████░░░░░   75%
-API Design   ████████████░░░░░░░░░   60%
-Documentation██████████░░░░░░░░░░   50%
-Testing      █████████░░░░░░░░░░░░   45%
-```
 ### 🎯 Skills Proficiency Matrix
 
 | Skill Category | Expertise Level | Projects Completed |
