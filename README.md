@@ -26,9 +26,22 @@ Senior Flutter Developer with **2+ years of experience** building scalable, high
 - 🚀 Proven track record of mentoring developers and optimizing team workflows
 - 📱 Expert in state management patterns (BLoC, Riverpod, GetX, Provider)
 - 🔧 Strong focus on maintainable, testable, and scalable code
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/Experience-2+%20Years-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Lead-Softvence%20Agency-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Architecture-Clean%20%7C%20SOLID-4CAF50?style=for-the-badge" />
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jihad1236&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/github/followers/jihad1236?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Available%20for%20Consultation-success?style=flat-square" alt="Status" />
+</p>
+</div>
+
+<br>
+
+<div align="center">
 ## 🛠️ Core Technologies
 
 ### Mobile Development
@@ -55,7 +68,8 @@ Senior Flutter Developer with **2+ years of experience** building scalable, high
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socket.io&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+</div>
+<br>
 
 ## 💼 Professional Experience
 
@@ -117,7 +131,7 @@ Developed a high-concurrency rider application with real-time tracking and secur
 </div>
 <br>
 <div align="center">
-<br>
+
 
 ### 🎓 **Architecture Decision Framework**
 
