@@ -134,19 +134,41 @@ Developed a comprehensive rider application with real-time order tracking and se
 - Automated testing (Unit, Widget, Integration)
 
 ---
+### 💻 Weekly Development Breakdown
 
+```text
+Flutter      ███████████████████░░   85%
+Dart         ████████████████░░░░░   75%
+API Design   ████████████░░░░░░░░░   60%
+Documentation██████████░░░░░░░░░░   50%
+Testing      █████████░░░░░░░░░░░░   45%
+```
+### 🎯 Skills Proficiency Matrix
+
+| Skill Category | Expertise Level | Projects Completed |
+|:---------------|:---------------:|:------------------:|
+| Flutter Development | ![](https://geps.dev/progress/95?dangerColor=02569B&warningColor=02569B&successColor=02569B) | 10+ |
+| State Management | ![](https://geps.dev/progress/90?dangerColor=1389FD&warningColor=1389FD&successColor=1389FD) | 12+ |
+| Firebase Integration | ![](https://geps.dev/progress/88?dangerColor=FFCA28&warningColor=FFCA28&successColor=FFCA28) | 8+ |
+| RESTful APIs | ![](https://geps.dev/progress/85?dangerColor=009688&warningColor=009688&successColor=009688) | 15+ |
+| Clean Architecture | ![](https://geps.dev/progress/82?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 6+ |
+
+</div>
+---
 ## 📈 GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jihad1236&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=02569B&icon_color=02569B&text_color=333333)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jihad1236&theme=default&hide_border=true&background=ffffff&stroke=02569B&ring=02569B&fire=02569B&currStreakLabel=333333)
+<img src="https://github-readme-stats.vercel.app/api?username=jihad1236&show_icons=true&theme=transparent&title_color=02569B&icon_color=0052CC&text_color=333333&bg_color=0,ffffff,e6f2ff&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad1236&theme=transparent&stroke=02569B&ring=02569B&fire=02569B&currStreakLabel=02569B&background=0,ffffff,e6f2ff&hide_border=true" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihad1236&layout=compact&theme=transparent&title_color=02569B&text_color=333333&bg_color=0,ffffff,e6f2ff&hide_border=true" width="60%" />
 
 </div>
 
 ---
-
 ## 🎓 Education & Certifications
 
 **Bachelor of Science in Computer Science & Engineering**  
@@ -157,7 +179,7 @@ June 2024
 
 ---
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 
 I'm always interested in discussing new opportunities, innovative projects, or Flutter development challenges.
 
@@ -168,7 +190,7 @@ I'm always interested in discussing new opportunities, innovative projects, or F
 
 </div>
 
----
+
 
 <div align="center">
 
