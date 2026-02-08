@@ -59,35 +59,25 @@ Senior Flutter Developer with **2+ years of experience** building scalable, high
 
 ## 💼 Professional Experience
 
-### **Junior Flutter Developer** — Softvence Agency
-**July 2025 — Present**
+### **Junior Flutter Developer** — Softvence Agency  
+*July 2025 – Present* 📍 *Dhaka, Bangladesh (15th Floor, Ambon Complex)*
 
-- Lead technical team and mentor junior developers on best practices
-- Reduced bug fix time by **20%** through modular architecture implementation
-- Improved codebase efficiency by **15%** with optimized state management
-- Established code review processes and development standards
-
-### **Flutter Developer** — SYZNO Advanced Software Solutions
-**Nov 2024 — May 2025**
-
-- Integrated complex REST APIs and Firebase Firestore for scalable data solutions
-- Implemented real-time features using WebSockets and Cloud Functions
-- Collaborated with cross-functional teams on feature delivery
+* **Technical Leadership:** Lead and coordinate the technical team, providing mentorship and enforcing high-standard best practices.
+* **Architecture & Maintenance:** Reduced bug-fix turnaround time by **20%** by transitioning to a modular and scalable Clean Architecture.
+* **Performance Optimization:** Improved codebase efficiency by **15%** through the implementation of optimized state-management strategies (BLoC/Riverpod).
+* **Quality Assurance:** Defined and implemented code-review guidelines and development standards to ensure zero-regression updates.
 
 ---
 
-## 🚀 Featured Projects
+### **Flutter Developer** — SYZNO Advanced Software Solutions  
+*Nov 2024 – May 2025* 📍 *Onsite/Remote*
 
-<div align="center">
+* **Backend Integration:** Engineered and integrated scalable REST APIs and Firebase Firestore solutions for real-time data persistence.
+* **Real-time Features:** Successfully implemented real-time application features using WebSockets and Cloud Functions.
+* **Cross-functional Collaboration:** Collaborated with design and product teams to deliver complex features strictly on schedule.
 
-### Production Applications Portfolio
-
-| Project | Status | Tech Stack | Key Achievements | Platform |
-|:--------|:------:|:-----------|:-----------------|:--------:|
-| **Barbell AI** | 🟢 Live | Flutter • AI OCR • HealthDash • Firebase | AI meal planning with 95% accuracy in food recognition | ![iOS](https://img.shields.io/badge/iOS-App_Store-000000?style=flat-square&logo=apple) |
-| **Quikle Rider** | 🟢 Live | Flutter • WebSocket • GPS • Firebase | Real-time tracking with <50ms latency | ![Android](https://img.shields.io/badge/Android-Play_Store-3DDC84?style=flat-square&logo=android) |
-
-</div>
+<br>
+<div align="left">
 
 ## 🚀 Featured Production Projects
 
@@ -124,7 +114,8 @@ Developed a high-concurrency rider application with real-time tracking and secur
 - Delivered **engagement features** including referral programs and in-app quizzes  
 
 
-
+</div>
+<br>
 <div align="center">
 <br>
 
