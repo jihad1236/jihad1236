@@ -131,8 +131,9 @@ Developed a high-concurrency rider application with real-time tracking and secur
 **Decision Drivers:** `Scalability` • `Performance` • `Team Efficiency` • `Maintainability` • `Business Goals`
 
 </div>
+<br>
 
----
+<div align="center">
 
 
 ### 🎯 Skills Proficiency Matrix
@@ -146,17 +147,16 @@ Developed a high-concurrency rider application with real-time tracking and secur
 | Clean Architecture | ![](https://geps.dev/progress/82?dangerColor=00D9FF&warningColor=00D9FF&successColor=00D9FF) | 6+ |
 
 </div>
+<br>
+
 
 ## 📈 GitHub Statistics
 
-<div align="center">
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jihad1236&theme=transparent&stroke=02569B&ring=02569B&fire=02569B&currStreakLabel=02569B&background=0,ffffff,e6f2ff&hide_border=true" width="48%" />
 
 
-
-</div>
 
 
 ## 🎓 Education & Certifications
